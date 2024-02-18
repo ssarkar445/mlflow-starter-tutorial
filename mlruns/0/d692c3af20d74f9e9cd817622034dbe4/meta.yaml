@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Drive_1/mlflow/mlruns/0/d692c3af20d74f9e9cd817622034dbe4/artifacts
+end_time: 1708229284704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d692c3af20d74f9e9cd817622034dbe4
+run_name: monumental-grub-790
+run_uuid: d692c3af20d74f9e9cd817622034dbe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708229284682
+status: 3
+tags: []
+user_id: sumasark

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Drive_1/mlflow/testing_mlflow1_artifacts/35e4bf62b75a4aaf96764105055845bc/artifacts
+deleted_time: 1708232085546
+end_time: 1708230816971
+entry_point_name: ''
+experiment_id: '306870678278693818'
+lifecycle_stage: deleted
+run_id: 35e4bf62b75a4aaf96764105055845bc
+run_name: testing
+run_uuid: 35e4bf62b75a4aaf96764105055845bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708230816950
+status: 3
+tags: []
+user_id: sumasark

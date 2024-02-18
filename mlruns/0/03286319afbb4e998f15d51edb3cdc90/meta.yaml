@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Drive_1/mlflow/mlruns/0/03286319afbb4e998f15d51edb3cdc90/artifacts
+end_time: 1708229928823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03286319afbb4e998f15d51edb3cdc90
+run_name: mlflow_runs
+run_uuid: 03286319afbb4e998f15d51edb3cdc90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708229928804
+status: 4
+tags: []
+user_id: sumasark

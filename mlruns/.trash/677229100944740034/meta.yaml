@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Drive_1/mlflow/testing_mlflow1_artifacts
+creation_time: 1708230427445
+experiment_id: '677229100944740034'
+last_update_time: 1708230613284
+lifecycle_stage: deleted
+name: testing_mlflow1
+tags:
+  env: dev
+  version: 1.0.0
